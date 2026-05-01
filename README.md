@@ -13,7 +13,7 @@ This project showcases an interactive Power BI dashboard designed to analyze sal
 
 ## Dashboard Preview
 
-* dashboarrd.png
+* dashboard.png
 
 ## Tools Used
 
